@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * July 2024 - now: Aviation demand analysis and development of auxiliary tools
-  * Aerospace Software Trusted Development Laboratory
+  * Aerospace Software Trusted Development Technology Laboratory
   * Duties includes:
     * Participate in architecture design and core function realization, build a highly available and scalable demand analysis toolchain, and improve the efficiency and accuracy of demand analysis.
     * Assist aviation units such as COMAC and AVIC in completing system requirement analysis and review to ensure the accuracy and completeness of the requirements.
