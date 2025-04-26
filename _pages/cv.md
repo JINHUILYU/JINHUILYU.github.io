@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Software Engineering, East China Normal University, 2026 (expected)
+  * Aerospace Software Trusted Development Technology Laboratory 
   * Supervisor: Professor Yong Cai
   * Research directions: Requirements formalization & Requirements review
 * B.S. in Electronic Information Engineering, Jiangsu University, 2022
