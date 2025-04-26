@@ -13,7 +13,7 @@ title                    : "Jinhui Lyu / 吕锦辉"
 title_separator          : "-"
 name                     : &name "Your name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://jinhuilyu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Doraemon.png"
+  avatar           : "bio-photo.png"
   name             : "Jinhui Lyu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -74,7 +74,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  bilibili         : "抽象文化学习者" # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
