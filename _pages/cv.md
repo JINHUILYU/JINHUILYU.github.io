@@ -45,15 +45,15 @@ Work experience
   
 Skills
 ======
-* Skill Programing
-  * Sub-skill C/C++
-  * Sub-skill Python
-  * Sub-skill Rust
-* Skill Professional ability
-  * Sub-skill Familiar with C/C++ (STL containers, object-oriented design principles and common design patterns), Python (standard library) and Rust (ownership).
-  * Sub-skill Familiar with the μC/ OS-II core (task lifecycle, scheduling, interrupts and semaphores implementation) and RTOS/ embedded system architecture.
-  * Sub-skill Understand MySQL indexes, transactions and their isolation levels, as well as common performance optimizations under MySQL.
-  * Sub-skill Have practical experience in requirement analysis and formal methods (natural language → LTL transformation, model checking) as well as in the development and deployment of deep learning models.
+* Programing
+  * C/C++
+  * Python
+  * Rust
+* Professional ability
+  * Familiar with C/C++ (STL containers, object-oriented design principles and common design patterns), Python (standard library) and Rust (ownership).
+  * Familiar with the μC/ OS-II core (task lifecycle, scheduling, interrupts and semaphores implementation) and RTOS/ embedded system architecture.
+  * Understand MySQL indexes, transactions and their isolation levels, as well as common performance optimizations under MySQL.
+  * Have practical experience in requirement analysis and formal methods (natural language → LTL transformation, model checking) as well as in the development and deployment of deep learning models.
 
 Publications
 ======
