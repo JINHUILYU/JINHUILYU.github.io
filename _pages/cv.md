@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Software Engineering, East China Normal University, 2026 (expected)
-* B.S. in Electronic Information Engineering, Jiangsu University, 2012
+* B.S. in Electronic Information Engineering, Jiangsu University, 2022
 
 Work experience
 ======
