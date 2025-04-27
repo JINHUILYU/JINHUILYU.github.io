@@ -34,6 +34,10 @@ Project Experience
     * Realize a role dialogue system based on prompt engineering, supporting dynamic switching of multiple roles and context memory.
     * Design pipeline strategies and arbitration mechanisms to achieve multi-prompt integrated dialogues.
 
+* December 2024 - now: [Blog_OS](https://github.com/JINHUILYU/blog_os)
+  * Personal Project
+  * A minimal operating system kernel using Rust.
+
 * February 2024 - March 2024: Quadcopter Flight Control System Based on FlyLite OS
   * Aerospace Software Trusted Development Technology Laboratory 
   * Duties includes:
