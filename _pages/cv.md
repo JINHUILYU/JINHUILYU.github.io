@@ -18,7 +18,7 @@ Education
 * B.S. in Electronic Information Engineering, Jiangsu University, 2022
   * Supervisor: Professor Leijun Xu
 
-Work experience
+Project Experience
 ======
 * July 2024 - now: Aviation demand analysis and development of auxiliary tools
   * Aerospace Software Trusted Development Technology Laboratory
@@ -28,19 +28,19 @@ Work experience
     * Conduct an in-depth analysis of the rationality and consistency of the project requirements, promptly identify and point out the conflicts and unreasonable aspects of the requirements, and put forward corresponding modification suggestions. Discover more than 50 errors in the project requirements of aviation units such as the 615 Research Institute of AVIC and Hanzhong 101 Aviation Electronic Equipment Co., LTD.
 
 * November 2024 - December 2024: General large model dialogue software: [Chat-Bot](https://github.com/JINHUILYU/chat-framework)
-  * Aerospace Software Trusted Development Laboratory
+  * Aerospace Software Trusted Development Technology Laboratory 
   * Duties includes:
     * Independently completed the system architecture design and functional implementation based on Python + PyQt.
     * Realize a role dialogue system based on prompt engineering, supporting dynamic switching of multiple roles and context memory.
     * Design pipeline strategies and arbitration mechanisms to achieve multi-prompt integrated dialogues.
 
 * February 2024 - March 2024: Quadcopter Flight Control System Based on FlyLite OS
-  * Aerospace Software Trusted Development Laboratory
+  * Aerospace Software Trusted Development Technology Laboratory 
   * Duties includes:
     * Be responsible for the transplantation and optimization of electrical harmonics and USB drivers to enhance system stability.
 
 * July 2023 - July 2023: Airborne high-safety operating environment FlyLite OS
-  * Aerospace Software Trusted Development Laboratory
+  * Aerospace Software Trusted Development Technology Laboratory 
   * Duties includes:
     * Participated in the research and development of the first domestic low-cost airworthiness runtime environment that meets the requirements of DO-178C A-level software development.
     * Assist in designing and implementing the thread full lifecycle management module, including core apis such as thread creation, information query and modification.
