@@ -34,6 +34,11 @@ Work experience
     * Realize a role dialogue system based on prompt engineering, supporting dynamic switching of multiple roles and context memory.
     * Design pipeline strategies and arbitration mechanisms to achieve multi-prompt integrated dialogues.
 
+* February 2024 - March 2024: Quadcopter Flight Control System Based on FlyLite OS
+  * Aerospace Software Trusted Development Laboratory
+  * Duties includes:
+    * Be responsible for the transplantation and optimization of electrical harmonics and USB drivers to enhance system stability.
+
 * July 2023 - July 2023: Airborne high-safety operating environment FlyLite OS
   * Aerospace Software Trusted Development Laboratory
   * Duties includes:
@@ -43,6 +48,14 @@ Work experience
     * Be responsible for the requirement analysis and test documentation of the thread library, libc library and libm library to ensure that the module functions comply with the design specifications.
     * Realize some functions of the Shell interaction module, integrate Bash command running tests and system status monitoring functions.
     * The system coverage test was completed based on the TestGrid platform, covering statement coverage, branch coverage, decision coverage and MC/DC coverage.
+   
+* February 2022 - May 2022: Rice Disease Identification Acceleration System Based on FPGA: [FPGA Acceleration System](https://github.com/LyuJinhui/Rice)
+  * Laboratory 212, School of Electrical and Information Engineering
+  * Duties includes:
+    * Complete the benchmark test of object detection based on YOLOv3 to evaluate the performance of the model on FPGA hardware.
+    * Optimize the anchor frame size and aspect ratio of the SSD algorithm to increase the detection accuracy by 40%.
+    * The MobileNet v1 recognition network was fully implemented. Data preprocessing, model training and verification were completed, and the accuracy rate increased from 30% to 70%.
+    * The convolution operator acceleration algorithm was designed to optimize the computational parallelism and data flow, and the SSD recognition rate was increased by 100% compared to YOLOv3.
   
 Skills
 ======
