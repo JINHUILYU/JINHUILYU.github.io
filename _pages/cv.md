@@ -51,8 +51,8 @@ Skills
   * Python
   * Rust
 * Professional ability
-  * Familiar with C/C++ (STL containers, object-oriented design principles and common design patterns), Python (standard library) and Rust (ownership).
-  * Familiar with the μC/ OS-II core (task lifecycle, scheduling, interrupts and semaphores implementation) and RTOS/ embedded system architecture.
+  * Proficient in C/C++, Python and Rust (ownership).
+  * Familiar with the μC/ OS-II core and RTOS/ embedded system architecture.
   * Understand MySQL indexes, transactions and their isolation levels, as well as common performance optimizations under MySQL.
   * Have practical experience in requirement analysis and formal methods (natural language → LTL transformation, model checking) as well as in the development and deployment of deep learning models.
 
