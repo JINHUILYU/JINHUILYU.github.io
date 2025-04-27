@@ -43,7 +43,7 @@ Project Experience
   * Duties includes:
     * Be responsible for the transplantation and optimization of electrical harmonics and USB drivers to enhance system stability.
 
-* July 2023 - July 2023: Airborne high-safety operating environment FlyLite OS
+* July 2023 - July 2023: Airborne high-safety running time environment FlyLite OS
   * Aerospace Software Trusted Development Technology Laboratory 
   * Duties includes:
     * Participated in the research and development of the first domestic low-cost airworthiness runtime environment that meets the requirements of DO-178C A-level software development.
