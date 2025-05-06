@@ -27,6 +27,13 @@ Project Experience
     * Assist aviation units such as COMAC and AVIC in completing system requirement analysis and review to ensure the accuracy and completeness of the requirements.
     * Conduct an in-depth analysis of the rationality and consistency of the project requirements, promptly identify and point out the conflicts and unreasonable aspects of the requirements, and put forward corresponding modification suggestions. Discover more than 50 errors in the project requirements of aviation units such as the 615 Research Institute of AVIC and Hanzhong 101 Aviation Electronic Equipment Co., LTD.
 
+* April 2025 - May 2025: Intelligent document Q&A system: [LLM-powered DocQA](https://github.com/JINHUILYU/Intelligent-document-QA-system)
+  * Aerospace Software Trusted Development Technology Laboratory 
+  * Duties includes:
+    * Independently develop an intelligent question-answering service based on Python + FastAPI, integrate the API of large language models, construct the Retrieval Enhancement Generation (RAG) process, and achieve document semantic retrieval and answer generation.
+    * Design and implement the document knowledge base, manage the document content using MySQL, and achieve structured persistent storage.
+    * By using word embedding technology to vectorize knowledge and store it in Redis, efficient retrieval and cache acceleration based on semantic similarity can be achieved.
+
 * November 2024 - December 2024: General large model dialogue software: [Chat-Bot](https://github.com/JINHUILYU/chat-framework)
   * Aerospace Software Trusted Development Technology Laboratory 
   * Duties includes:
