@@ -82,12 +82,12 @@ Skills
 * Programing
   * C/C++
   * Python
+  * Go
   * Rust
 * Professional ability
-  * Proficient in C/C++, Python and Rust (ownership).
-  * Familiar with the μC/ OS-II core and RTOS/ embedded system architecture.
-  * Understand MySQL indexes, transactions and their isolation levels, as well as common performance optimizations under MySQL.
-  * Have practical experience in requirement analysis and formal methods (natural language → LTL transformation, model checking) as well as in the development and deployment of deep learning models.
+  * Familiar with C/C++, Go, Python, DO-178C, DO-333, ARINC-653, and have a basic understanding of Rust.
+  * Familiar with the μC/OS-II, xv6, Linux 0.11, and common RTOS/embedded system architectures.
+  * Possess experience in requirements analysis and formal methods practice (natural language → LTL transformation, model checking), as well as in the development and deployment of deep learning models.
 
 Publications
 ======
