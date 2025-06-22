@@ -21,7 +21,7 @@ Education
 Work Experience
 ======
 * June 2025 - September 2025: ZXISOS-653
-  * ZTE Corporation. Operating System Product Department
+  * ZTE Corporation. Operating System Product Department \[Intern\]
   * Duties includes:
     * Participated in the research and development of ZTE's ZXISOS-653 airborne operating system, and assisted in writing and error-correcting software architecture design documents.
     * Referring to the ARINC-653 standard, assist in designing and implementing the full life cycle management module for some partited operating system tasks, including core apis such as task creation and task scheduling, and assist in completing the troubleshooting and repair of some API issues of the kernel operating system, and organize the software requirement documents.
