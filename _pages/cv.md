@@ -20,7 +20,10 @@ Education
  
 Work Experience
 ======
-* September 2025 – December
+* December 2025 - NOW
+  * Tencent. IEG R&D Intern
+
+* September 2025 – December 2025
   * MOMENTA. OBF R&D Intern
   * Key Responsibilities:
     1. Participated in the development, integration, testing, and OTA updates of domain-controlled ECU underlying systems (BSP/MCU/SWITCH);
