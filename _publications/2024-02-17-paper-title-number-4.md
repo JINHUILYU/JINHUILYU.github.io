@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "A Hierarchical Hybrid-Intelligence Architecture with Consensus, Debate, and Reflection for High-Fidelity NL-to-PPTL Conversion"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
